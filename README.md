@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, I'm Michaela
+
+<a href="https://linkedin.com/in/michaela-a-bab-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+I am a recent graduate with a strong passion for cybersecurity and a commitment to protecting systems and solving complex security challenges.
 
 <!--
 **MichBab/MichBab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
