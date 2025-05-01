@@ -4,6 +4,16 @@
 
 I am a recent graduate with a strong passion for cybersecurity and a commitment to protecting systems and solving complex security challenges.
 
+## Objective
+My academic journey in cybersecurity and data analytics has gave me a strong passion for protecting digital systems, and I am now eager to begin my career in the field with an entry-level position in cybersecurity where I can apply my academic knowledge, while continuing to grow professionally through hands-on experience and industry certifications.
+
+## Skills
+
+
+## Projects
+-
+
+  
 <!--
 **MichBab/MichBab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
