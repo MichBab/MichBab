@@ -9,9 +9,16 @@ My academic journey in cybersecurity and data analytics has gave me a strong pas
 
 ## Skills
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Security                              | <a href="https://github.com/MichBab/Network-Security/tree/main">Network Segmentation Project</a>|
+
+## Degree
+![image](https://github.com/user-attachments/assets/9b6a0110-c6a3-476b-856c-e9c354536e63)
 
 ## Projects
--
+<a href="https://github.com/MichBab/Network-Security/tree/main">Network Segmentation Project</a>
+
 
   
 <!--
